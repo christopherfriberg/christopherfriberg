@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Christopher Friberg</h1>
+
+  <p class="resume">
+    View a quick bio in the <a href="/about">About</a> section.
+    View resume in the <a href="/resume">Resume</a> section.
+  </p>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+
+          <div class="post-preview">{{post.preview }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+  
+
+</div>
