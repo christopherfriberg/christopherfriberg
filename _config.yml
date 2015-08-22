@@ -1,0 +1,12 @@
+# Site settings
+title: Christopher Friberg
+email: cfriberg@gmail.com
+description: Personal website for Christopher Friberg
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+# twitter_username: silverpatriot
+linkedin_username: christopherfriberg
+github_username:  christopherfriberg
+
+# Build settings
+markdown: kramdown

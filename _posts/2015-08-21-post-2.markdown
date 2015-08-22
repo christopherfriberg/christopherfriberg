@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Site update"
+date:   2015-08-21 23:00:00
+categories: site update
+preview: Updates to some CSS and posts
+---
+ChristopherFriberg.com 1.0. Probably should be a 0.x, but as it's up and deployed, I'll start with 1.0.
+
+This site is build using [Jekyll][jekyll], a Ruby static site generator. I will mostly be using this to showcase my resume and practice maintaining/updating a website.
+
+Some changes from default Jekyll implementation:
+
+*	Nav bar styling has been adjusted and the Resume section added.
+*	Fonts for the whole site have been changed to Avenir.
+*	Previews have been added for blog posts.
+*	LinkedIn social media added to the footer. SVG taken from [Codepen][codepen]
+*	Minor CSS adjustments throughout.
+
+[jekyll]:      http://jekyllrb.com
+[codepen]:     http://codepen.io/ruandre/pen/howFi
