@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Update 8/29/15"
+date:   2015-08-29 23:00:00
+categories: site update
+preview: super long preview text super long preview text super long preview text super long preview text super long preview text super long preview text super long preview text super long preview text
+---
+Not too many changes:
+
+* Add image to the main page
+* Remove default Jekyll post

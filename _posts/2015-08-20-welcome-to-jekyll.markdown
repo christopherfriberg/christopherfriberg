@@ -1,26 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "First Post"
 date:   2015-08-20 02:19:02
-categories: jekyll update
-preview: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+categories: initiate
+preview: 
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Just created this using [Jekyll] [jekyll].
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Need to make some modifications and deploy - probably on Heroku.
 
-Jekyll also offers powerful support for code snippets:
+Should be a decent testbed for HTML and CSS, as well as maintaining a site. Need to register a domain and get it hooked up.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Not sure if I will actually use the blog portion too much, but maybe use it to document any changes made to the site.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+(Edited 8/29/15)
 
 [jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help

@@ -4,6 +4,10 @@ layout: default
 
 <div class="home">
 
+   <div class="home-image">
+    <img src="assets/chris.jpg" alt="Picture of Christopher Friberg" width="160" height="240">
+  </div>
+
   <h1 class="page-heading">Christopher Friberg</h1>
 
   <p class="resume">
@@ -20,7 +24,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
 
-          <div class="post-preview">{{post.preview }}</span>
+          <div class="post-preview">{{post.preview }}</div>
       </li>
     {% endfor %}
   </ul>
