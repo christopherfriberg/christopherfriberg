@@ -1,11 +1,16 @@
 ---
 layout: post
-title:  "Update 8/29/15"
+title:  "Update 8/30/15"
 date:   2015-08-29 23:00:00
 categories: site update
-preview: super long preview text super long preview text super long preview text super long preview text super long preview text super long preview text super long preview text super long preview text
+preview: Add image to the main page
 ---
 Not too many changes:
 
 * Add image to the main page
+* Add image to the about page
 * Remove default Jekyll post
+
+This wasn't mentioned in the previous post, but at the moment I am hosting using [Github Pages] [github-pages]. The next step for me is to register a .com domain and get the URL switched over.
+
+[github-pages]: https://pages.github.com/
