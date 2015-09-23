@@ -3,11 +3,15 @@ layout: post
 title:  "Update 9/22/15"
 date:   2015-09-22 01:30:00
 categories: site update
-preview: Add image to the main page
+preview: Switch to domain to .com, adjust main page
 ---
 To do:
 
 * Adjust URL to christopherfriberg.com
-* Move blog section off the main page. Switch name to "Site Updates"
+* Move blog section off the main page. Switch name to "Updates"
 * Move "About" content to the main page
 * Better formatting for resume
+
+Adjusting the URL proved more confusing than I thought. GitHub Pages recommending listing a subdomain (say, 'www') in the CNAME file, but this mean that christopherfriberg.com was actually still a placeholder from Gandi. www.christopherfrberg.com was fine, but because I don't have any page up for just .com that was not ideal. This site was helpful, and specific to the domain registrar I used (Gandi): http://spector.io/how-to-set-up-github-pages-with-a-custom-domain-on-gandi/
+
+This should be good for now-- I just want the site to display, since christopherfriberg.github.io is set to forward to .com. I might look into the subdomain/apex domain issue later and fiddle around with it more.
