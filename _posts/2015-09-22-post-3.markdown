@@ -12,6 +12,6 @@ To do:
 * Move "About" content to the main page
 * Better formatting for resume
 
-Adjusting the URL proved more confusing than I thought. GitHub Pages recommending listing a subdomain (say, 'www') in the CNAME file, but this mean that christopherfriberg.com was actually still a placeholder from Gandi. www.christopherfrberg.com was fine, but because I don't have any page up for just .com that was not ideal. This site was helpful, and specific to the domain registrar I used (Gandi): http://spector.io/how-to-set-up-github-pages-with-a-custom-domain-on-gandi/
+Adjusting the URL proved more confusing than I thought. GitHub Pages recommending listing a subdomain (say, 'www') in the CNAME file, but this mean that christopherfriberg.com was actually still a placeholder from Gandi. www.christopherfrberg.com was fine, but because I don't have any page up for just .com that was not ideal. This site was helpful, and specific to the domain registrar I used (Gandi): <a href="http://spector.io/how-to-set-up-github-pages-with-a-custom-domain-on-gandi/">http://spector.io/how-to-set-up-github-pages-with-a-custom-domain-on-gandi</a>
 
 This should be good for now-- I just want the site to display, since christopherfriberg.github.io is set to forward to .com. I might look into the subdomain/apex domain issue later and fiddle around with it more.
