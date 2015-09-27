@@ -3,10 +3,10 @@ title: Christopher Friberg
 email: cfriberg@gmail.com
 description: Personal website for Christopher Friberg
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: silverpatriot
+url: "http://christopherfriberg.com" # the base hostname & protocol for your site
 linkedin_username: christopherfriberg
 github_username:  christopherfriberg
 
 # Build settings
 markdown: kramdown
+include: ['_pages']
