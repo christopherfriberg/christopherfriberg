@@ -30,11 +30,23 @@ Multicultural: Lived in Sharjah, UAE for 3 years, Almaty, Kazakhstan for 8.5 yea
 
 ###Work Experience
 
-####**Client Success Manager**, Teikametrics, Boston, MA
+####**Independent Contractor** - CAST, Inc
+
+September 2015 - Present
+
+Transfer a backlog of event data from Excel spreadsheets into Salesforce.
+
+> Compile and clean data from multiple sources to ensure uniformity and accuracy. 
+>
+> Collect missing information about Organizations and/or Participants.
+>
+> Prepare and upload events into Salesforce, resolving any errors as they occur.
+
+####**Client Success Manager** - Teikametrics, Boston, MA
 
 August 2014 - July 2014
 
-Onboard, train, and create success plan for new clients.
+Conducted a training program for all new clients.
 
 >Review clients’ current strategy to create pricing logic and profiles that reflect their goals. 
 >
@@ -44,22 +56,22 @@ Onboard, train, and create success plan for new clients.
 >
 >Analyze current clients’ accounts to provide a business health review and success plan.
 
-Provide exemplary customer service as the initial recipient of all client tickets.
+Provided exemplary customer service as the initial recipient of all client tickets.
 
->Oversee the Client Support Manager to ensure all incoming tickets receive a rapid response (<60 min). 
+>Oversaw the Client Support Manager and ensured all incoming tickets received a rapid response.
 >
->Investigate client issues, executing SQL queries as necessary to retrieve data.
+>Investigated client issues, executing SQL queries as necessary to retrieve data.
 >
->Create a knowledge base for existing clients. (FAQ, User Guides, Release Notes, etc.)
+>Created a knowledge base (FAQs, User Guides and Release Notes) for existing clients using Zendesk.
 
-Perform Quality Assurance and User Acceptance Testing.
+Performed Quality Assurance and User Acceptance Testing.
 
->Test pending fixes/features and document bugs or errors.
+>Tested pending fixes/features and documented bugs or errors.
 >
->Process client feedback and create detailed feature requests; confirm resulting features address clients’ needs.
+>Processed client feedback and created any corresponding feature requests; confirmed resulting features addressed the clients’ needs.
 
 
-####**Catalog Manager & Data Analyst**, AgentRetail, Quincy, MA
+####**Catalog Manager & Data Analyst** - AgentRetail, Quincy, MA
 
 October 2011 - August 2014
 
@@ -80,16 +92,20 @@ As Data Analyst, assisted Buyers in creating purchase orders and reviewing sell-
 >Evaluated closeout lists to find potential take-all opportunities.
 
 
-####**Student Manager**, Gordon College Dining Services, Wenham, MA
+####**Student Manager & Inventory Manager** - Gordon College Dining Services, Wenham, MA
+
 January 2008 - May 2010
+
+As Student Manager:
 
 >Directed cafeteria operations, oversaw 15-20 worker shifts, trained new student workers, conducted worker performance reviews each semester and interviewed/hired future student management.
 
-####**Inventory Manager**, Gordon College Dining Services, Wenham, MA
-August 2008 - May 2010
+As Inventory Manager:
 
 >Coordinated with the Director and Executive Chef to maintain Dining Services’ weekly inventory ($45,000+).
 
-Check out my [LinkedIn profile][linkedin] to see full history.
+
+
+Feel free to check out my [LinkedIn profile][linkedin].
 
 [linkedin]:	https://www.linkedin.com/in/christopherfriberg
