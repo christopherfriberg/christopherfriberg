@@ -4,12 +4,13 @@ title: Resume
 permalink: /resume/
 ---
 
-#**Christopher Friberg**
+## **Christopher Friberg**
 [LinkedIn] [linkedin] | cfriberg@gmail.com | (978) 595-8540
+
 
 *****
 
-###Education
+### Education
 
 Gordon College, Wenham, MA
 
@@ -18,7 +19,7 @@ May 2010
 
 *****
 
-###Skills
+### Skills
 
 Computer: Microsoft Office – Amazon Seller Central – Ruby – SQL – Salesforce
 
@@ -28,9 +29,9 @@ Multicultural: Lived in Sharjah, UAE for 3 years, Almaty, Kazakhstan for 8.5 yea
 
 *****
 
-###Work Experience
+### Work Experience
 
-####**Independent Contractor** - CAST, Inc
+#### **Independent Contractor** - CAST, Inc
 
 September 2015 - Present
 
@@ -42,7 +43,7 @@ Transfer a backlog of event data from Excel spreadsheets into Salesforce.
 >
 > Prepare and upload events into Salesforce, resolving any errors as they occur.
 
-####**Client Success Manager** - Teikametrics, Boston, MA
+#### **Client Success Manager** - Teikametrics, Boston, MA
 
 August 2014 - July 2014
 
@@ -71,7 +72,7 @@ Performed Quality Assurance and User Acceptance Testing.
 >Processed client feedback and created any corresponding feature requests; confirmed resulting features addressed the clients’ needs.
 
 
-####**Catalog Manager & Data Analyst** - AgentRetail, Quincy, MA
+#### **Catalog Manager & Data Analyst** - AgentRetail, Quincy, MA
 
 October 2011 - August 2014
 
@@ -92,7 +93,7 @@ As Data Analyst, assisted Buyers in creating purchase orders and reviewing sell-
 >Evaluated closeout lists to find potential take-all opportunities.
 
 
-####**Student Manager & Inventory Manager** - Gordon College Dining Services, Wenham, MA
+#### **Student Manager & Inventory Manager** - Gordon College Dining Services, Wenham, MA
 
 January 2008 - May 2010
 
