@@ -31,7 +31,7 @@ Multicultural: Lived in Sharjah, UAE for 3 years, Almaty, Kazakhstan for 8.5 yea
 
 ### Work Experience
 
-#### **Independent Contractor** - CAST, Inc
+#### **Independent Contractor, Data Analysis** - CAST, Inc
 
 September 2015 - Present
 
@@ -49,13 +49,11 @@ August 2014 - July 2014
 
 Conducted a training program for all new clients.
 
->Review clients’ current strategy to create pricing logic and profiles that reflect their goals. 
+>Reviewed clients’ current pricing strategies to create re-pricing logic that reflects their goals. 
 >
->Assist new clients with importing accurate product data.
+>Assisted new clients with importing accurate product data.
 >
->Conduct training sessions to help integrate Teikametrics into clients’ current workflow. 
->
->Analyze current clients’ accounts to provide a business health review and success plan.
+>Analyzed accounts to provide a business health review and success plan.
 
 Provided exemplary customer service as the initial recipient of all client tickets.
 
@@ -80,9 +78,7 @@ As Catalog Manager, oversaw multi-million dollar long tail strategy across four 
 
 >Maintained and updated product listings to accurately reflect available catalog.
 >
->Configured re-pricing solution to perform according to company goals.
->
->Created and executed quarterly plan to expand SKU coverage across existing brands. 
+>Configured re-pricing solution to perform according to company goals. 
 >
 >Managed multiple branded Ecommerce websites in Magento and Shopify.
 
