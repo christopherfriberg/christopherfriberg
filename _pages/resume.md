@@ -14,7 +14,7 @@ permalink: /resume/
 
 Gordon College, Wenham, MA
 
-B.A. Magna Cum Laude in Economics, minor in Computer Science (3.69 GPA)
+B.A. Magna Cum Laude in Economics, minor in Computer Science
 May 2010
 
 *****
