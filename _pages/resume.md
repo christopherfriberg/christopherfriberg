@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 ## **Christopher Friberg**
-[LinkedIn] [linkedin] | cfriberg@gmail.com | (978) 595-8540
+[LinkedIn] [linkedin]
 
 
 *****

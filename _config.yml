@@ -1,6 +1,5 @@
 # Site settings
 title: Christopher Friberg
-email: cfriberg@gmail.com
 description: Personal website for Christopher Friberg
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://christopherfriberg.com" # the base hostname & protocol for your site
